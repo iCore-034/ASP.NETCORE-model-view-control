@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ASP.NETCORE model-view-control", "ASP.NETCORE model-view-control\ASP.NETCORE model-view-control.csproj", "{1FDBBC34-2A80-4580-8870-AA7C6E7A9ACE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerDatabase", "ServerDatabase\ServerDatabase.csproj", "{481A70CB-A893-4BA7-90E7-5DD26CFA6683}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FDBBC34-2A80-4580-8870-AA7C6E7A9ACE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FDBBC34-2A80-4580-8870-AA7C6E7A9ACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FDBBC34-2A80-4580-8870-AA7C6E7A9ACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FDBBC34-2A80-4580-8870-AA7C6E7A9ACE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{481A70CB-A893-4BA7-90E7-5DD26CFA6683}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{481A70CB-A893-4BA7-90E7-5DD26CFA6683}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{481A70CB-A893-4BA7-90E7-5DD26CFA6683}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{481A70CB-A893-4BA7-90E7-5DD26CFA6683}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D73BD668-71B8-459D-A74C-6D5D889990D0}
+	EndGlobalSection
+EndGlobal
